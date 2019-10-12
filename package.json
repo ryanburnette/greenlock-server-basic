@@ -1,0 +1,16 @@
+{
+  "name": "@ryanburnette/greenlock-server-basic",
+  "version": "1.0.0",
+  "description": "A very basic greenlock-express server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ryan Burnette <ryan.burnette@gmail.com> (https://ryanburnette.com)",
+  "license": "ISC",
+  "dependencies": {
+    "greenlock-express": "^2.7.17",
+    "greenlock-store-fs": "^3.0.2",
+    "http-proxy": "^1.18.0"
+  }
+}
