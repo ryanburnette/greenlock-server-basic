@@ -1,4 +1,4 @@
-# greenlock-server-basic
+# [greenlock-server-basic][1]
 
 A very basic greenlock-express server.
 
