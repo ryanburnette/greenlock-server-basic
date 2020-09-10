@@ -11,6 +11,6 @@
   "dependencies": {
     "greenlock-express": "^2.7.17",
     "greenlock-store-fs": "^3.0.2",
-    "http-proxy": "^1.18.0"
+    "http-proxy": "^1.18.1"
   }
 }
